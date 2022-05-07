@@ -1,0 +1,67 @@
+h1 {
+    font-size: 55px;
+    text-align: center;
+    background: brown;
+    color: green;
+}
+body {
+    background: #ccc;
+}
+img {
+    border: 3px solid yellow;
+}
+.blue {
+    border-color: blue;
+    border-top-left-radius: 50%;
+    height: 350px;
+}
+.red {
+    border-bottom-color: red;
+}
+h2 {
+    text-transform: capitalize;
+}
+span {
+    color: aqua ;
+    font-style: italic;
+}
+.box {
+    border-bottom: 5px solid greenyellow;
+    padding-bottom: 10px;
+}
+.plane {
+    color: blueviolet;
+}
+.car {
+    color: blue;
+}
+.pink{
+     text-decoration: underline;
+}
+.doll{
+     text-transform: uppercase;
+     color: darkblue;
+     font-style: normal;
+}
+.hill{
+     border: 1px solid red;
+     border-bottom-color: goldenrod;
+}
+.water{
+      color: hotpink;
+      font-style: normal;
+}
+.good{
+     vertical-align: middle;
+}
+.cat{
+    font-style: normal;
+    margin-right: 20px;
+}
+
+ol li {
+    list-style-position: inside;
+}
+ol li:last-child {
+    background-color: gray;
+}
